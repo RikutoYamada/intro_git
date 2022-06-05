@@ -5,3 +5,4 @@ git commit
 3行目：変更した理由
 git rm
 git status
+git diff
